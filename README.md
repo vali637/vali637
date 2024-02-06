@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Murthujavalli Dudekula]
+# Hi there! 👋 I'm Murthujavalli Dudekula
 
 I'm a seasoned software developer with over 15 years of experience in building various software products. I'm passionate about crafting efficient and scalable solutions that solve real-world problems. Here's a glimpse of my core skills and expertise:
 
