@@ -14,8 +14,15 @@ I'm a seasoned software developer with over 15 years of experience in building v
 ### Sportsbook
 A comprehensive sports betting platform designed specifically for B2B purposes. It facilitates the management of betting odds, customer accounts, and betting transactions. The platform is built using Java and Spring Boot, providing a robust and scalable backend system. It includes features such as real-time odds updates, risk management tools, and customizable betting markets.
 
+### Payment Aggregator
+Desinged and developed a payment aggregator platform that offers multiple payment gateways. The idea is to avoid clients to integrate multiple gateways. With single interations, clients get to offer multiple gateways to their customers.
+
+
 ### [Game Aggregator](https://www.haohan.ph)
-This project is a complete game aggregator platform that integrates multiple game providers and payment gateways into a single unified platform. It allows users to access a wide range of games from various providers without the need to switch between different platforms. The system is developed using Golang for the backend, React.js for the frontend, and Spring Boot for middleware services. It includes features such as game search, account management, and secure payment processing.
+This project is a complete game aggregator platform that integrates multiple game providers and payment gateways into a single unified platform. It allows users to access a wide range of games from various providers without the need to switch between different platforms. The system is developed using Golang for the backend, React.js for the frontend services. It includes features such as game search, account management, and secure payment processing.
+
+### Sportsbook
+Champion Sports is a sports betting platform. Its mainly designed to offer B2B Clients as an Iframe solutions for them to integrate. This product also include its own backoffice system to monitor players along with Risk monitoring and reports.  
 
 ### Airline Crew Training System
 The Airline Crew Training System is designed to streamline the scheduling of training sessions for airline crew members, including pilots and first captains. It enables airlines to efficiently manage crew training requirements, ensuring compliance with regulatory standards and facilitating career progression for crew members. The system is developed using Java and Spring Boot, with features such as training scheduling, grade tracking, and performance evaluation.
