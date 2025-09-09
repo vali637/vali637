@@ -35,7 +35,7 @@ The Airline Ticketing System provides support for one of the major airline ticke
 
 ## Get in Touch
 - LinkedIn: Reach me at Murthujavalli Dudekula
-- Email: [Your Email Address](mailto:murthujavalli.dudekula@gmail.com)
+- Email: [My Email Address](mailto:murthujavalli.dudekula@gmail.com)
 
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect!
 
