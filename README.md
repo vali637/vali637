@@ -15,7 +15,7 @@ I'm a seasoned software developer with over 15 years of experience in building v
 A comprehensive sports betting platform designed specifically for B2B purposes. It facilitates the management of betting odds, customer accounts, and betting transactions. The platform is built using Java and Spring Boot, providing a robust and scalable backend system. It includes features such as real-time odds updates, risk management tools, and customizable betting markets.
 
 ### Payment Aggregator
-Desinged and developed a payment aggregator platform that offers multiple payment gateways. The idea is to avoid clients to integrate multiple gateways. With single interations, clients get to offer multiple gateways to their customers.
+Desinged and developed a payment aggregator platform that offers multiple payment gateways. The idea is to avoid clients to integrate multiple gateways. With single integration, clients get to offer multiple gateways to their customers.
 
 
 ### [Game Aggregator](https://www.haohan.ph)
